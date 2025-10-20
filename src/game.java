@@ -99,3 +99,12 @@ public class game {
         System.out.println("Jogo encerrado. Até a próxima!");
     }
 }
+//professor, peço perdão pelo atraso,
+// espero que receba a atividade, lembrando que eu precisei me ausentar
+// por motivos pessoais, foi algo inesperado e, por isso,
+// não consegui avisar com antecedência. Prefiro não entrar em
+// detalhes, mas gostaria que soubesse que minha ausência não foi por
+// descaso ou falta de compromisso com a disciplina. Mesmo tendo faltado,
+// me preocupei em fazer a atividade em casa, sozinho, para não ficar para
+// trás. Entendo que existem regras, mas gostaria de saber se há alguma
+// possibilidade de considerar ou remanejar a avaliação. Agradeço pela compreensão.
